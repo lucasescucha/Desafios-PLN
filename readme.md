@@ -63,4 +63,4 @@ Arquitectura del modelo BERT:
 
 ![BERT architecture](https://miro.medium.com/v2/resize:fit:786/format:webp/0*ViwaI3Vvbnd-CJSQ.png)
 
-Todas las soluciones son presentados en formato Python Notebook.
+Todas las soluciones son presentadas en formato Python Notebook.
