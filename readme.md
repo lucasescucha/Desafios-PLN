@@ -48,7 +48,7 @@ En este desafío, se desarrolló un Bot conversacional utilizando una arquitectu
 
 * *Recursos*:
 
-Ejemplo de modelo Seq2Seq
+Ejemplo de modelo Seq2Seq:
 
 ![Seq2Seq](https://pytorch.org/tutorials/_images/seq2seq.png)
 
